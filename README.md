@@ -56,15 +56,16 @@ rag_project/
 ## 🖼️ 运行演示 (Demo)
 
 ### streamlit 运行演示图
-![demo1](assets/demo1.png)
+<img src="https://raw.githubusercontent.com/Klay2005/-RAG/master/assets/demo1.png" width="100%">
 
 ### 1. 多领域智能路由
-![demo2](assets/demo2.png)
+> **场景**：系统识别出“库里”属于 NBA 领域，并自动切换至专用向量库。
+<img src="https://raw.githubusercontent.com/Klay2005/-RAG/master/assets/demo2.png" width="100%">
 
 ### 2. 技术知识库检索
-![demo4](assets/demo4.png)
-![demo3](assets/demo3.png)
-
+> **场景**：询问 Docker 与 元宇宙 相关问题，系统精准召回镜像配置与行业报告资料。
+<img src="https://raw.githubusercontent.com/Klay2005/-RAG/master/assets/demo4.png" width="100%">
+<img src="https://raw.githubusercontent.com/Klay2005/-RAG/master/assets/demo3.png" width="100%">
 
 
 
